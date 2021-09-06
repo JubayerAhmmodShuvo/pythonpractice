@@ -1,5 +1,4 @@
-#store input numbers
-
+#add numbers
 a= int (input ("input first number "))
 b= int(input ("input second number "))
 
